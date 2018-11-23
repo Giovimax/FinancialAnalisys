@@ -1,0 +1,5 @@
+--Note sul progetto
+--Prossimi passi
+-Terminare la sistemazione del data frame
+-creare un adeguata infrastruttura per mantere i futuri test
+-sperimentare la creazione di algoritmi
